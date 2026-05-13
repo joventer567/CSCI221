@@ -1,0 +1,5 @@
+Ending stats: 
+You used 5 items this run.
+You used 5 specials this run.
+You ended with 6 health and 18 special points.
+Thanks for playing!
